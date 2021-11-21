@@ -1,8 +1,10 @@
+## Get started ...
+
 ### So...
 
 Suddenly, it occurred to me that I wanted to write an autobiograph when I was watching a video from Will Smith. He said that he planned to lose 20 lbs weight and write an autobiograph within 20 weeks. At that time, I realized that it's been a long time for me to rethink about myself, and what I had done.
 
-![Will Smith](https://github.com/immorBen/benlog/blob/gh-pages/Will%20Smith.png)
+![Will Smith](https://github.com/immorBen/benlog/raw/gh-pages/Will%20Smith.png)
 
 (*From: https://www.youtube.com/watch?v=-9WDEFtSU_M&ab_channel=WillSmith*)
 
